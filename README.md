@@ -6,12 +6,11 @@ Check latest release [here](https://github.com/Gonon-Kernel/gonon-gcc/releases/l
 
 # Features
 ```
-  ==> GCC-20231005-20231005
-  ==> Binutils-
+  ==> GCC: GononGCC-20240105-20240105
+  ==> Binutils: 
   ==> Target: 'aarch64-linux-gnu'
   ==> Stripped binaries
-  ==> Compressed tar archive with zstd v1.5.5
 ```
 
 # Build script
-Visit https://github.com/Gonon-Kernel/gcc-build
+Visit https://github.com/nurfaizfy/gcc-build
