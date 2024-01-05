@@ -1,5 +1,5 @@
 # GitHub Action Build Status
-[![Release GCC Build](https://github.com/Gonon-Kernel/gcc-build/actions/workflows/unstable-build.yml/badge.svg?branch=main)](https://github.com/Gonon-Kernel/gcc-build/actions/workflows/unstable-build.yml)
+[![Release GCC Build](https://github.com/nurfaizfy/gcc-build/actions/workflows/unstable-build.yml/badge.svg?branch=main)](https://github.com/nurfaizfy/gcc-build/actions/workflows/unstable-build.yml)
 
 # Download
 Check latest release [here](https://github.com/Gonon-Kernel/gonon-gcc/releases/latest)
@@ -7,7 +7,7 @@ Check latest release [here](https://github.com/Gonon-Kernel/gonon-gcc/releases/l
 # Features
 ```
   ==> GCC: GononGCC-20240105-20240105
-  ==> Binutils: 
+  ==> Binutils: 2.41.50
   ==> Target: 'aarch64-linux-gnu'
   ==> Stripped binaries
 ```
