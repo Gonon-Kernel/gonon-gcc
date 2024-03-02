@@ -6,7 +6,7 @@ Check latest release [here](https://github.com/Gonon-Kernel/gonon-gcc/releases/l
 
 # Features
 ```
-  ==> GCC: GononGCC-14.0.1-20240301
+  ==> GCC: GononGCC-14.0.1-20240302
   ==> Binutils: 2.42.50
   ==> Target: 'aarch64-linux-gnu'
   ==> Stripped binaries
